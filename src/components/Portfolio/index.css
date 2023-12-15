@@ -24,6 +24,12 @@
       margin-left: 150px;
     }
 
+    .imagezonePortfolio2{
+      position: absolute;
+      top: 140px;
+      margin-left: 850px;
+    }
+
     a{
       color: #f5b609;
       font-size: large;    

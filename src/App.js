@@ -4,10 +4,7 @@ import About from './components/About'
 import Contact from './components/Contact'
 import Layout from './components/Layout'
 import Portfolio from './components/Portfolio'
-// import React from 'react';
 import './App.css';
-// import ImageSlider from './ImageSlider';
-// const images = ['phoenix.jpg', 'Danne.jpg'];
 
 function App() {
   return (
