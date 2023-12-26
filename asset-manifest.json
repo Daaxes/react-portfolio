@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed75b592.css",
-    "main.js": "/static/js/main.7500aa3e.js",
-    "static/js/787.cf482a7c.chunk.js": "/static/js/787.cf482a7c.chunk.js",
-    "static/media/cv.png": "/static/media/cv.094ac9fa7e8eb1bb767b.png",
-    "static/media/Cinzel-ExtraBold.ttf": "/static/media/Cinzel-ExtraBold.d04173c84f095ca334a8.ttf",
-    "static/media/phoenix.jpg": "/static/media/phoenix.15e2dd8d868f51fca7a0.jpg",
-    "static/media/Danne.png": "/static/media/Danne.b38d0532d26b5ab107f6.png",
-    "static/media/MunamiiCakery.png": "/static/media/MunamiiCakery.347859399d72839bce98.png",
-    "index.html": "/index.html",
-    "main.ed75b592.css.map": "/static/css/main.ed75b592.css.map",
-    "main.7500aa3e.js.map": "/static/js/main.7500aa3e.js.map",
-    "787.cf482a7c.chunk.js.map": "/static/js/787.cf482a7c.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.d6ffdcae.css",
+    "main.js": "/react-portfolio/static/js/main.15f50b0a.js",
+    "static/js/787.cf482a7c.chunk.js": "/react-portfolio/static/js/787.cf482a7c.chunk.js",
+    "static/media/cv.png": "/react-portfolio/static/media/cv.094ac9fa7e8eb1bb767b.png",
+    "static/media/Cinzel-ExtraBold.ttf": "/react-portfolio/static/media/Cinzel-ExtraBold.d04173c84f095ca334a8.ttf",
+    "static/media/phoenix.jpg": "/react-portfolio/static/media/phoenix.15e2dd8d868f51fca7a0.jpg",
+    "static/media/Danne.png": "/react-portfolio/static/media/Danne.b38d0532d26b5ab107f6.png",
+    "static/media/MunamiiCakery.png": "/react-portfolio/static/media/MunamiiCakery.347859399d72839bce98.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.d6ffdcae.css.map": "/react-portfolio/static/css/main.d6ffdcae.css.map",
+    "main.15f50b0a.js.map": "/react-portfolio/static/js/main.15f50b0a.js.map",
+    "787.cf482a7c.chunk.js.map": "/react-portfolio/static/js/787.cf482a7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed75b592.css",
-    "static/js/main.7500aa3e.js"
+    "static/css/main.d6ffdcae.css",
+    "static/js/main.15f50b0a.js"
   ]
 }
