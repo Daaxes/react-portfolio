@@ -5,6 +5,7 @@ import {
   faReact,
 } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { DiJsBadge } from "react-icons/di"; //import new ikons to cube
 import './index.css'
 
 const About = () => {
