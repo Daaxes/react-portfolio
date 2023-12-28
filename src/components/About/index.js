@@ -9,7 +9,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import './index.css'
 
 const About = () => {
-
   return (
     <>
       <div className="container about-page">

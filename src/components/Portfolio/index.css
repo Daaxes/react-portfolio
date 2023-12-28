@@ -22,12 +22,22 @@
       position: absolute;
       top: 140px;
       margin-left: 150px;
+      border-radius: 8px;
+      padding: 16px;
+      text-align: center;
+      box-shadow: 4px 4px 4px 4px #f5b609;
+  
     }
 
     .imagezonePortfolio2{
       position: absolute;
       top: 140px;
       margin-left: 850px;
+      border-radius: 8px;
+      padding: 16px;
+      text-align: center;
+      box-shadow: 4px 4px 4px 4px #f5b609;
+  
     }
 
     a{

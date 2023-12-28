@@ -1,4 +1,4 @@
-import { HashRouter as Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Home from './components/Home'
 import About from './components/About'
 import Contact from './components/Contact'
@@ -21,8 +21,8 @@ function App() {
       </Routes>
       
     </>
-  )
+  );
 }
 
-// Export the App component
+//Export the App component
 export default App;
